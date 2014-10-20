@@ -1,0 +1,10 @@
+CS2010-Assignment2
+Ruben Loewen 5010926
+ 
+
+
+This is a simple program that will take user input and if it is an alphabetic character it will be added to a word, the word will be added to a dictionary once a non alphabetic character is read or no more input is present. If a word has already been read previously it's occurence is incremented. When there is no more input or the dictionary is full it is printed along with number of occurences for each word. 
+
+To run this program extract the .tar file into a desired directory. CD to that directory in your terminal and execute make. After compiling completes execute the program with ./prog <data.dat  where the <data/dat is a document that you wish to read as input
+
+After you are done using this program run: make clean to remove the .o files and the program executable.
