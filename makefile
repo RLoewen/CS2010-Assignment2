@@ -1,4 +1,4 @@
-CC = g++ -
+CC = g++ 
 OBJ = main.o
 BIN = prog
 
